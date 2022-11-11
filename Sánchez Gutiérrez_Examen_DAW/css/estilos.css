@@ -1,0 +1,19 @@
+.conteiner{
+    background-color: sandybrown;
+    width: 300px;
+    margin: 30px;
+}
+
+.resist{
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    background: black;
+}
+
+.resist2{
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    background: gold;
+}
